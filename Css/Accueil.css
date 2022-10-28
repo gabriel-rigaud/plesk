@@ -1,0 +1,53 @@
+img.Logo {
+    width: 33%;
+    height: auto;
+    padding: 10px;
+}
+
+.Wp {
+    width: 48%;
+    float: left;
+    position: relative;
+}
+
+.Text {
+    width: 48%;
+    position: relative;
+    float: left
+}
+.Text p {
+    padding: 2px;
+    text-align: center;
+    font-size: 28px;
+    margin: 2px;
+    float: left;
+    color:black;
+}
+
+.titre h1 {
+    padding: 20px;
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
+
+nav.menu ul li {
+
+    display: inline-block;
+    padding:5px;
+    font-size: 17px;
+}
+
+nav.menu ul li.btn a{
+
+    color: azure;
+    background-color: black;
+    text-decoration: none;
+}
+
+nav.menu ul li.btn:hover a{
+
+    color: black;
+    background-color: azure;
+    transition: 0.3s all;
+}

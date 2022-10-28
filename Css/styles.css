@@ -1,0 +1,49 @@
+h2{
+    color: red;
+}
+
+h2.Comp{
+    color: gold;
+}
+p{
+    color: aqua;
+}
+
+body{
+    background-color: dimgrey;
+    #background: url("https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/236f44583009506b8d9d012c4d3119a5.jpeg")no-repeat;
+    #background-size:50%;
+}
+
+a{
+    color: blue;
+}
+
+.Ytb {
+        display: inline-block;
+        horiz-align: center;
+        background-color: red;
+    }
+
+nav.menu ul li {
+
+    display: inline-block;
+
+}
+
+nav.menu ul li.btn a{
+
+    color: azure;
+    background-color: black;
+    text-decoration: none;
+
+}
+
+nav.menu ul li.btn:hover a{
+
+    color: black;
+    background-color: azure;
+    transition: 0.3s all;
+
+
+}
