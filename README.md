@@ -1,2 +1,0 @@
-starting website git
-.
